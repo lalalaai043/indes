@@ -1,0 +1,13 @@
+name = "Spectre lib [UNOFFICIAL PORT]"
+filename = "spectrelib-neoforge-0.17.1+1.21.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "35b4a980091a91bccf15fedf0604078187f71aef"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8204601
+project-id = 1566422

@@ -1,0 +1,27 @@
+{
+  "__comment": "Information to restore the selected controllers for next load of the game",
+  "selected": [
+    {
+      "name": "Controller (Azeron Keypad - XInput)",
+      "guid": "00720000-0000-12f7-0000-16d076510003",
+      "type": 0,
+      "vendor": 5840,
+      "product": 4855,
+      "product_version": 0,
+      "firmware": 0,
+      "buttons": 11,
+      "axes": 6
+    },
+    {
+      "name": "(Void GENESIS Controller)",
+      "guid": "00720000-0000-1011-0000-38d205930003",
+      "type": 0,
+      "vendor": 14546,
+      "product": 4113,
+      "product_version": 0,
+      "firmware": 0,
+      "buttons": 11,
+      "axes": 6
+    }
+  ]
+}

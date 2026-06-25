@@ -1,0 +1,13 @@
+name = "[UNOFFICIAL] LesRaisins Tactical Equipements"
+filename = "LesRaisins-Tactical-Equipements.0.3.0-hotfix-r1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ef3073d072f1d64d41d980d3f16e70fe259dfb4"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8209207
+project-id = 1432620

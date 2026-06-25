@@ -1,0 +1,13 @@
+name = "Bonfires"
+filename = "Bonfires-1.21.1-1.2.20b-neoforge-88de527.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a809d73db80037b6646e96b6ade56be0b465c66f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7207937
+project-id = 255347

@@ -1,0 +1,13 @@
+name = "Aeronautic Dragons"
+filename = "Aeronautic Dragons-1.4.zip"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ccdf99177125c5206f2b45218b156202d1aa136"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8300645
+project-id = 1573529

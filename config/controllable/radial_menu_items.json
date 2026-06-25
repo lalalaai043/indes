@@ -1,0 +1,34 @@
+[
+  {
+    "key": "controllable.key.open_controllable_settings",
+    "color": "GREEN"
+  },
+  {
+    "key": "key.advancements",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.screenshot",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.fullscreen",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.parcool.RideZipline.custom",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.tacz.interact.desc",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.tacz.inspect.desc",
+    "color": "YELLOW"
+  },
+  {
+    "key": "key.parcool.FastRun.custom",
+    "color": "YELLOW"
+  }
+]
